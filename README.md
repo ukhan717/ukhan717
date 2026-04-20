@@ -42,19 +42,9 @@ engineering_style:
 
 ## 🛠 &nbsp;Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
-</p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,git,vscode,linux&theme=dark" alt="Tech Stack" /></a>
 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-005571?style=flat-square&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-Firmware-1C2541?style=flat-square)
-![MCU](https://img.shields.io/badge/MCU-Platform%20Bringup-3A506B?style=flat-square)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-005571?style=flat-square&logoColor=white) ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-Firmware-1C2541?style=flat-square) ![MCU](https://img.shields.io/badge/MCU-Platform%20Bringup-3A506B?style=flat-square)
 
 ---
 
